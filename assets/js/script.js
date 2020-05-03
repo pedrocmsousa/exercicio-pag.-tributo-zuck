@@ -9,3 +9,11 @@ $(function navbarMenu(){
          fecharMenu.collapse('hide');
      });
  });
+
+$(function navbarFooter(){ 
+     var fecharMenuFooter = $("#navbarFooter");
+
+     fecharMenuFooter.on("click", "a", null, function () {
+         fecharMenuFooter.collapse('hide');
+     });
+ });

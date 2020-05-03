@@ -24,7 +24,7 @@
 			<div class="col-lg">
 				<figure class="figure">
 					<img src="assets/images/zuck.jpg" class="img-fluid mx-auto d-block rounded img-thumbnail"/>
-					<figcaption class="figure-caption text-center"><h4>Mark Zuckerberg. Fonte: <a href="https://beam.biz/content/7954/Facebooks_news_feed_will_soon_show_you_more_content_from_friends_and_family_and_less_from_publishers" target="_blank">beam.biz<img src="assets/images/link-externo-zuck.png"></a></h4></figcaption>
+					<figcaption class="figure-caption text-center"><h4>Mark Zuckerberg. Fonte: <a href="https://beam.biz/content/7954/Facebooks_news_feed_will_soon_show_you_more_content_from_friends_and_family_and_less_from_publishers" target="_blank"><small>beam.biz<img src="assets/images/link-externo-zuck.png"></small></a></h4></figcaption>
 				</figure>
 			</div>
 			<div class="col-lg"></div>
@@ -236,7 +236,7 @@
 		</div>	
 	</div>	
 
-<!-- Secção mais do site -->
+<!-- Secção Mais do site -->
 	
 	<div class="container">
 		<div id="more"><br/><br/><br/>
@@ -250,6 +250,8 @@
 			</div>
 		</div>		
 	</div>
+
+<!-- Fontes do Site -->	
 
 
 	<div class="container">
@@ -281,20 +283,17 @@
 				</div>
 			</div>
 		</div>
-	</div>		
-<!--		
-			<div class="zuck-sources-2">
-				<a href="https://olhardigital.com.br/pro/noticia/10-empresas-que-tentaram-comprar-o-facebook/41408" target="_blank">Artigo do Olhar Digital tentativa de compra do Facebook <img src="assets/images/setalink2.png" /></a>
-			</div>
-		</div>				
-	</content>
-	<footer>
-		Copyright ₢2019 <a href="http://www.pedletsinfo.com.br" target="_blank">PedLets Info Service</a> - All Rights Reserved
-	</footer> -->
+	</div><br/><br/><br/>
 
+<!-- Carregamento do footer -->
+
+	<?php 
+		include 'assets/php/footer.php';
+	?>
+	
 
 	<script type="text/javascript" src="assets/js/jquery v3.4.1.slim.js"></script>
-	<script type="text/javascript" src="assets/js/bootstrap.bundle.js"></script>
+	<script type="text/javascript" src="assets/js/bootstrap.bundle.min.js"></script>
 	<script type="text/javascript" src="assets/js/script.js"></script>
 </body>
 </html>
