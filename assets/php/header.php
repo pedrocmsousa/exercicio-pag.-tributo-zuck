@@ -18,7 +18,7 @@
 				<a class="nav-link" href="#timeline">Linha do Tempo</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#">Mais</a>
+				<a class="nav-link" href="#more">Mais</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="#">Fontes</a>
