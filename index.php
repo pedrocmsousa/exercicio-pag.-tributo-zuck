@@ -242,14 +242,21 @@
 		<div id="more"><br/><br/><br/>
 			<h3>Mais</h3><br/>
 			<div class="row">
-				<div class="col ">
-					
+				<div class="col-1 zuck-more-rectangle"></div>
+				<div class="col">
+					<h2 class="text-justify">O Facebook não foi originalmente criado para ser uma empresa. Foi construído para realizar uma missão social - tornar o mundo mais aberto e conectado.<h2>
+					<h3><span class="font-italic font-weight-bold">Mark Zuckerberg</span></h3>
 				</div>
 			</div>
 		</div>		
 	</div>
 
 
+	<div class="container">
+		<div id="sources"><br/><br/><br/>
+			<h3>Fontes</h3><br/>
+		</div>
+	</div>		
 <!--		
 		
 		<div id="more" class="zuck-more">
