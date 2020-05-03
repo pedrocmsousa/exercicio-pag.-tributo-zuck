@@ -34,8 +34,8 @@
 <!-- Mark Zuckenberg Feitos -->	
 
 	<div class="container">
-		<div id="glance" class="zuck-atglance">
-			<h3>Mark Zuckerberg os feitos</h3>
+		<div id="glance"><br/><br/><br/>
+			<h3>Mark Zuckerberg os feitos</h3><br/>
 			<p class="text-justify"><span class="font-weight-bold bg-dark text-light">Mark Elliot Zuckerberg</span> é um programador americano de computadores e empresário da Internet. Ele é co-fundador do Facebook e atualmente atua como presidente e diretor executivo. Seu patrimônio líquido é estimado em US $ 72,5 bilhões em 5 de março de 2018.</p>
 			<p class="text-justify">Zuckerberg lançou o Facebook a partir do seu quarto na Universidade de Harvard em <span class="font-weight-bold bg-success text-light">4 de fevereiro de 2004</span>, com seus colegas de Harvard, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz e Chris Hughes. O grupo então introduziu o Facebook em outros campos universitários. O Facebook expandiu-se rapidamente, <span class="font-weight-bold bg-success text-light">alcançando um bilhão de usuários em 2012</span>. Durante esse período, Zuckerberg se envolveu em várias disputas legais trazidas por seus amigos e co-fundadores, que alegaram ter participação na empresa com base em seu envolvimento durante a fase de desenvolvimento.</p>
 		</div>
@@ -45,8 +45,8 @@
 
 
 	<div class="container">
-		<div id="timeline">
-			<h3>Linha do Tempo</h3>
+		<div id="timeline"><br/><br/><br/>
+			<h3>Linha do Tempo</h3><br/>
 			<div id="accordion">
 				<div class="card">
 					<div class="card-header">
