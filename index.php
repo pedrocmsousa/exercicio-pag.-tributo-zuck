@@ -255,17 +255,34 @@
 	<div class="container">
 		<div id="sources"><br/><br/><br/>
 			<h3>Fontes</h3><br/>
+			<div class="card">
+				<div class="card-header bg-info">
+					<a href="https://pt.wikipedia.org/wiki/Mark_Zuckerberg" target="_blank" class="font-weight-bold text-decoration-none text-reset">Wikipédia do Mark Zuckerberg</a>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header bg-info">
+					<a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Facebook" target="_blank" class="font-weight-bold text-decoration-none text-reset">Wikipédia da História do Facebook</a>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header bg-info">
+					<a href="https://pt.wikipedia.org/wiki/Facebook" target="_blank" class="font-weight-bold text-decoration-none text-reset">Wikipédia do Facebook</a>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header bg-info">
+					<a href="https://www.brainyquote.com/authors/mark_zuckerberg" target="_blank" class="font-weight-bold text-decoration-none text-reset">Quotes Mark Zuckerberg</a>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header bg-info">
+					<a href="https://olhardigital.com.br/pro/noticia/10-empresas-que-tentaram-comprar-o-facebook/41408" target="_blank" class="font-weight-bold text-decoration-none text-reset">Artigo do Olhar Digital tentativa de compra do Facebook</a>
+				</div>
+			</div>
 		</div>
 	</div>		
 <!--		
-		
-		<div id="more" class="zuck-more">
-			<span>Mais</span>
-		</div>
-		<div class="zuck-more-rectangle">
-			<p>O Facebook não foi originalmente criado para ser uma empresa. Foi construído para realizar uma missão social - tornar o mundo mais aberto e conectado.<br><br> 
-			<b>Mark Zuckerberg</b></p>		
-		</div>
 		<div id="sources" class="zuck-sources">
 			<span>Fontes</span>
 			<div class="zuck-sources-1">
