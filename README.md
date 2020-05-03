@@ -1,4 +1,7 @@
-Exercicio solicitado em aula da Pagina de Tributo.
+# Alguns meses atrás
+
+- Exercicio solicitado em aula da Pagina de Tributo no curso PHP do Zero ao Profissional.
+- Exercicio pronto e subido para o GitHub.
 
 # 02/05/2020 21:50
 
@@ -9,3 +12,8 @@ Exercicio solicitado em aula da Pagina de Tributo.
 - Colocada a imagem responsiva no site.
 - Inserido o campo de feitos.
 - Inserido o menu Linha do teḿpo em modo Acordeon.
+
+# 03/05/2020 16:00
+
+- Modificação de codigo JS para funcionar o menu
+- Pequenas modificações para melhor apresentação do site.
