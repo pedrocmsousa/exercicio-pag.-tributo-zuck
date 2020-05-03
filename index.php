@@ -18,13 +18,13 @@
 <!-- Imagem inicial do site -->	
 
 
-	<div class="container-fluid" style="margin-top:60px;">
+	<div id="init" class="container-fluid"><br/><br/><br/>
 		<div class="row">
 			<div class="col-lg"></div>
 			<div class="col-lg">
 				<figure class="figure">
 					<img src="assets/images/zuck.jpg" class="img-fluid mx-auto d-block rounded img-thumbnail"/>
-					<figcaption class="figure-caption text-center">Mark Zuckerberg. Fonte: <a href="https://beam.biz/content/7954/Facebooks_news_feed_will_soon_show_you_more_content_from_friends_and_family_and_less_from_publishers" target="_blank">beam.biz <img src="assets/images/link-externo.png"></a></figcaption>
+					<figcaption class="figure-caption text-center"><h4>Mark Zuckerberg. Fonte: <a href="https://beam.biz/content/7954/Facebooks_news_feed_will_soon_show_you_more_content_from_friends_and_family_and_less_from_publishers" target="_blank">beam.biz<img src="assets/images/link-externo-zuck.png"></a></h4></figcaption>
 				</figure>
 			</div>
 			<div class="col-lg"></div>
@@ -283,20 +283,6 @@
 		</div>
 	</div>		
 <!--		
-		<div id="sources" class="zuck-sources">
-			<span>Fontes</span>
-			<div class="zuck-sources-1">
-				<a href="https://pt.wikipedia.org/wiki/Mark_Zuckerberg" target="_blank">Wikipédia do Mark Zuckerberg <img src="assets/images/setalink2.png" /></a>
-			</div>
-			<div class="zuck-sources-2">
-				<a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Facebook" target="_blank">Wikipédia da História do Facebook <img src="assets/images/setalink2.png" /></a>
-			</div>
-			<div class="zuck-sources-2">
-				<a href="https://pt.wikipedia.org/wiki/Facebook" target="_blank">Wikipédia do Facebook <img src="assets/images/setalink2.png" /></a>
-			</div>
-			<div class="zuck-sources-2">
-				<a href="https://www.brainyquote.com/authors/mark_zuckerberg" target="_blank">Quotes Mark Zuckerberg <img src="assets/images/setalink2.png" /></a>
-			</div>
 			<div class="zuck-sources-2">
 				<a href="https://olhardigital.com.br/pro/noticia/10-empresas-que-tentaram-comprar-o-facebook/41408" target="_blank">Artigo do Olhar Digital tentativa de compra do Facebook <img src="assets/images/setalink2.png" /></a>
 			</div>

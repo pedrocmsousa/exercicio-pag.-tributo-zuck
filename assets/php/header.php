@@ -12,6 +12,9 @@
 	<div class="collapse navbar-collapse justify-content-center" id="navbarMenu">
 		<ul class="navbar-nav">
 			<li class="nav-item">
+				<a class="nav-link" href="#init">Início</a>
+			</li>
+			<li class="nav-item">
 				<a class="nav-link" href="#glance">Feitos</a>
 			</li>
 			<li class="nav-item">
@@ -21,7 +24,7 @@
 				<a class="nav-link" href="#more">Mais</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#">Fontes</a>
+				<a class="nav-link" href="#sources">Fontes</a>
 			</li>
 		</ul>
 	</div>
