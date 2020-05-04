@@ -142,7 +142,7 @@
 						<a href="#c11" class="font-weight-bold text-decoration-none text-reset" data-toggle="collapse" aria-controls="c11">1º Semestre de 2006</a>
 					</div>
 					<div id="c11" class="card-body text-justify collapse" data-parent="#accordion">
-						<p class="card-body text-justify">Michel Wolf chefe da <a class="text-decoration-none text-reset" data-toogle="toolkit" title="Link do Wikipédia" href="https://pt.wikipedia.org/wiki/MTV" target="_blank">MTV</a> (que é subsidiária da Viacom) foi atrás de Zuckenberg para a compra do Facebook e ouviu que o mesmo só seria vendido pelo minimo de <span class="font-italic font-weight-bold">U$ 2 bilhões</span>. Algumas semanas depois a <a class="text-decoration-none text-reset" data-toogle="toolkit" title="Link do Wikipédia" href="https://pt.wikipedia.org/wiki/Viacom" target="_blank">Viacom</a> colocou <span class="font-italic font-weight-bold">US$ 1,5 bilhão</span> na mesa, dos quais <span class="font-italic font-weight-bold">US$ 800 milhões</span> viriam adiantados no entanto Zuckenberg quis um adiantamento maior e a <a class="text-decoration-none text-reset" data-toogle="toolkit" title="Link do Wikipédia" href="https://pt.wikipedia.org/wiki/Viacom" target="_blank">Viacom</a> desistiu da compra.</p>
+						<p class="card-body text-justify">Michel Wolf chefe da <a class="text-decoration-none text-reset" data-toogle="toolkit" title="Link do Wikipédia" href="https://pt.wikipedia.org/wiki/MTV" target="_blank">MTV</a> (que é subsidiária da Viacom) foi atrás de Zuckerberg para a compra do Facebook e ouviu que o mesmo só seria vendido pelo minimo de <span class="font-italic font-weight-bold">U$ 2 bilhões</span>. Algumas semanas depois a <a class="text-decoration-none text-reset" data-toogle="toolkit" title="Link do Wikipédia" href="https://pt.wikipedia.org/wiki/Viacom" target="_blank">Viacom</a> colocou <span class="font-italic font-weight-bold">US$ 1,5 bilhão</span> na mesa, dos quais <span class="font-italic font-weight-bold">US$ 800 milhões</span> viriam adiantados no entanto Zuckerberg quis um adiantamento maior e a <a class="text-decoration-none text-reset" data-toogle="toolkit" title="Link do Wikipédia" href="https://pt.wikipedia.org/wiki/Viacom" target="_blank">Viacom</a> desistiu da compra.</p>
 					</div>
 				</div>
 				<div class="card">
@@ -203,9 +203,9 @@
 				</div>
 				<div class="card">
 					<div class="card-header">
-						<a href="#c18" class="font-weight-bold text-decoration-none text-reset" data-toggle="collapse" aria-controls="c18">2º Semestre de 2010</a>
+						<a href="#c22" class="font-weight-bold text-decoration-none text-reset" data-toggle="collapse" aria-controls="c22">2º Semestre de 2010</a>
 					</div>
-					<div id="c18" class="card-body text-justify collapse" data-parent="#accordion">
+					<div id="c22" class="card-body text-justify collapse" data-parent="#accordion">
 						<p class="card-body text-justify">Filme de Hollywood <a class="text-decoration-none text-reset" data-toogle="toolkit" title="Link do Wikipédia" href="https://pt.wikipedia.org/wiki/A_Rede_Social" target="_blank">A Rede Social</a> é lançado documentando o tempo de Zuckerberg em Harvard e os primeiros dias do Facebook.</p>
 					</div>
 				</div>
@@ -245,8 +245,8 @@
 			<div class="row">
 				<div class="col-1 zuck-more-rectangle"></div>
 				<div class="col">
-					<h2 class="text-justify">O Facebook não foi originalmente criado para ser uma empresa. Foi construído para realizar uma missão social - tornar o mundo mais aberto e conectado.<h2>
-					<h3><span class="font-italic font-weight-bold">Mark Zuckerberg</span></h3>
+					<h5 class="text-justify">"O Facebook não foi originalmente criado para ser uma empresa. Foi construído para realizar uma missão social - tornar o mundo mais aberto e conectado."<h5>
+					<h6><span class="font-italic font-weight-bold">Mark Zuckerberg</span></h6>
 				</div>
 			</div>
 		</div>		
