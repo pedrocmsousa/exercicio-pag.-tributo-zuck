@@ -291,7 +291,8 @@
 	<?php 
 		include 'assets/php/footer.php';
 	?>
-	
+
+<!-- Carremento de JS -->	
 
 	<script type="text/javascript" src="assets/js/jquery v3.4.1.slim.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.bundle.min.js"></script>
