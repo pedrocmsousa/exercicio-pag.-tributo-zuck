@@ -17,3 +17,7 @@
 
 - Modificação de codigo JS para funcionar o menu
 - Pequenas modificações para melhor apresentação do site.
+- Feita a secção Mais do Site
+- Feita a Secção Fontes do Site
+- Adicionado o footer do site
+- Adicionadas as Redes Sociais
