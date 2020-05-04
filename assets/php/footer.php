@@ -1,5 +1,5 @@
 <footer>
-	<nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-bottom">
+	<nav class="navbar navbar-expand-lg bg-dark navbar-dark">
 <!-- Apresentação da footer -->
 		
 		<a class="navbar-brand" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
