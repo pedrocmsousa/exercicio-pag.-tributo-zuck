@@ -2,7 +2,7 @@
 	<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
 <!-- Apresentação da pagina -->
 
-		<a class="navbar-brand" href="https://www.facebook.com/zuck" target="_blank">Mark Zuckenberg</a>
+		<a class="navbar-brand" href="https://www.facebook.com/zuck" target="_blank">Mark Zuckerberg</a>
 
 <!-- Botão de collapse -->
 

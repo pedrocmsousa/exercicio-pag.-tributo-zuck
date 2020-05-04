@@ -28,3 +28,8 @@
 
 - Enviada a ultima versão completa do site para o GitHub.
 - Colocado o site online em https://www.pedlets.com.br/zuck
+
+# 04/05/2020 20:30 
+
+- Feitos pequenos ajustes na Secção Mais.
+- Pequenas correções ortograficas.
