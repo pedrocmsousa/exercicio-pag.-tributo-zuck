@@ -6,6 +6,7 @@
 	<title>Tributo a Mark Zuckenberg</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="shortcut icon" href="assets/images/favicon.ico" />
 </head>
 <body>
 
@@ -259,27 +260,27 @@
 			<h3>Fontes</h3><br/>
 			<div class="card">
 				<div class="card-header bg-info">
-					<a href="https://pt.wikipedia.org/wiki/Mark_Zuckerberg" target="_blank" class="font-weight-bold text-decoration-none text-reset">Wikipédia do Mark Zuckerberg</a>
+					<a href="https://pt.wikipedia.org/wiki/Mark_Zuckerberg" target="_blank" class="font-weight-bold text-decoration-none text-reset">Wikipédia do Mark Zuckerberg<img src="assets/images/link-externo.png"></a>
 				</div>
 			</div>
 			<div class="card">
 				<div class="card-header bg-info">
-					<a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Facebook" target="_blank" class="font-weight-bold text-decoration-none text-reset">Wikipédia da História do Facebook</a>
+					<a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_Facebook" target="_blank" class="font-weight-bold text-decoration-none text-reset">Wikipédia da História do Facebook<img src="assets/images/link-externo.png"></a>
 				</div>
 			</div>
 			<div class="card">
 				<div class="card-header bg-info">
-					<a href="https://pt.wikipedia.org/wiki/Facebook" target="_blank" class="font-weight-bold text-decoration-none text-reset">Wikipédia do Facebook</a>
+					<a href="https://pt.wikipedia.org/wiki/Facebook" target="_blank" class="font-weight-bold text-decoration-none text-reset">Wikipédia do Facebook<img src="assets/images/link-externo.png"></a>
 				</div>
 			</div>
 			<div class="card">
 				<div class="card-header bg-info">
-					<a href="https://www.brainyquote.com/authors/mark_zuckerberg" target="_blank" class="font-weight-bold text-decoration-none text-reset">Quotes Mark Zuckerberg</a>
+					<a href="https://www.brainyquote.com/authors/mark_zuckerberg" target="_blank" class="font-weight-bold text-decoration-none text-reset">Quotes Mark Zuckerberg<img src="assets/images/link-externo.png"></a>
 				</div>
 			</div>
 			<div class="card">
 				<div class="card-header bg-info">
-					<a href="https://olhardigital.com.br/pro/noticia/10-empresas-que-tentaram-comprar-o-facebook/41408" target="_blank" class="font-weight-bold text-decoration-none text-reset">Artigo do Olhar Digital tentativa de compra do Facebook</a>
+					<a href="https://olhardigital.com.br/pro/noticia/10-empresas-que-tentaram-comprar-o-facebook/41408" target="_blank" class="font-weight-bold text-decoration-none text-reset">Artigo do Olhar Digital tentativa de compra do Facebook<img src="assets/images/link-externo.png"></a>
 				</div>
 			</div>
 		</div>

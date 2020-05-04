@@ -24,13 +24,13 @@
 	      			Redes Sociais
 	     		</a>
 			    <div class="dropdown-menu bg-info">
-				    <a class="dropdown-item" href="https://www.facebook.com/pedrocmsousa" target="_blank"><img src="../assets/images/facebook.png"> <span>Facebook</span></a>
-				    <a class="dropdown-item" href="https://www.instagram.com/pedrocmsousa" target="_blank"><img src="../assets/images/instagram.png"> <span>Instagram</span></a>
-				    <a class="dropdown-item" href="https://wa.me/553175550661" target="_blank"><img src="../assets/images/whatsapp.png"> <span>WhatsApp</span></a>
+				    <a class="dropdown-item" href="https://www.facebook.com/pedrocmsousa" target="_blank"><img src="assets/images/facebook.png"> <span>Facebook</span></a>
+				    <a class="dropdown-item" href="https://www.instagram.com/pedrocmsousa" target="_blank"><img src="assets/images/instagram.png"> <span>Instagram</span></a>
+				    <a class="dropdown-item" href="https://wa.me/553175550661" target="_blank"><img src="assets/images/whatsapp.png"> <span>WhatsApp</span></a>
 			        <div class="dropdown-divider"></div>
-			        <a class="dropdown-item" href="https://www.linkedin.com/in/pedrocmsousa" target="_blank"><img src="../assets/images/linkedin.png"> <span>Linkedin</span></a>
-				    <a class="dropdown-item" href=" https://twitter.com/pedrocmsousa" target="_blank"><img src="../assets/images/twitter.png"> <span>Twitter</span></a>
-				    <a class="dropdown-item" href="https://t.me/pedrocmsousa" target="_blank"><img src="../assets/images/telegram.png"> <span>Telegram</span></a>
+			        <a class="dropdown-item" href="https://www.linkedin.com/in/pedrocmsousa" target="_blank"><img src="assets/images/linkedin.png"> <span>Linkedin</span></a>
+				    <a class="dropdown-item" href=" https://twitter.com/pedrocmsousa" target="_blank"><img src="assets/images/twitter.png"> <span>Twitter</span></a>
+				    <a class="dropdown-item" href="https://t.me/pedrocmsousa" target="_blank"><img src="assets/images/telegram.png"> <span>Telegram</span></a>
 			        <div class="dropdown-divider"></div>
 			   	</div>
    			</li>

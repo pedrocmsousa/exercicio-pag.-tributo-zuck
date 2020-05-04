@@ -36,11 +36,11 @@
 
 		<ul class="navbar-nav my-2 my-lg-0">
 			<li class="nav-item dropdown dropleft">
-	      			<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown"><img src="../assets/images/github-white.png"> GitHub</a>
+	      			<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown"><img src="assets/images/github-white.png"> GitHub</a>
 				<div class="dropdown-menu bg-info">
-			    	<a class="dropdown-item" href="https://github.com/pedrocmsousa" target="_blank"><img src="../assets/images/github.png"> <span>Profissional</span></a>
+			    	<a class="dropdown-item" href="https://github.com/pedrocmsousa" target="_blank"><img src="assets/images/github.png"> <span>Profissional</span></a>
 			    	<div class="dropdown-divider"></div>
-			    	<a class="dropdown-item" href="https://github.com/pedrocmsousa/exercicio-pag.-tributo-zuck" target="_blank"><img src="../assets/images/github.png"> <span>Este Projeto</span></a>
+			    	<a class="dropdown-item" href="https://github.com/pedrocmsousa/exercicio-pag.-tributo-zuck" target="_blank"><img src="assets/images/github.png"> <span>Este Projeto</span></a>
 				</div>
 			</li>    
 		</ul>
