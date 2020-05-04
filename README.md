@@ -17,7 +17,14 @@
 
 - Modificação de codigo JS para funcionar o menu
 - Pequenas modificações para melhor apresentação do site.
-- Feita a secção Mais do Site
-- Feita a Secção Fontes do Site
-- Adicionado o footer do site
-- Adicionadas as Redes Sociais
+- Feita a secção Mais do Site.
+- Feita a Secção Fontes do Site.
+- Adicionado o footer do site.
+- Adicionadas as Redes Sociais.
+- Feito menu Dropdown no Header.
+- Projeto pronto.
+
+# 03/05/2020 21:32
+
+- Enviada a ultima versão completa do site para o GitHub.
+- Colocado o site online em https://www.pedlets.com.br/zuck
