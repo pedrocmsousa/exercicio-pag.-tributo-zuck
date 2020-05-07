@@ -28,3 +28,4 @@
 ### index.php
 
 - Criado os botoes para colocação dos links.
+- Integrado perfeitamente com o PHP e My SQL
