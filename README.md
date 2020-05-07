@@ -8,3 +8,10 @@
 - Preparação da pagina de login
 - Feito formulario de login
 - Feita a codificação de PHP
+
+# 07/05/2020 12:10
+
+## login.php
+
+- Colocado background-image no fundo do body.
+-  Refeito o footer para corrigir erro de não abrir menu com as redes sociais.- 
