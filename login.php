@@ -33,16 +33,18 @@
 	<title>Login Sistema</title>
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/login.css">
+	<link rel="stylesheet" href="assets/css/style.css">
 	<link rel="shortcut icon" href="assets/images/favicon.ico" />
 </head>
 <body>
 <?php 
 	include 'assets/php/headerlogin.php';
 ?>		
-	<div class="container "><br/><br/><br/><br/><br/><br/>
+	<div class="container "><br/><br/><br/><br/><br/>
 		<div class="row">
 			<div class="col-3"></div>
 			<div class="col">
+				<h2 class="text-center bg-primary">Acesso a Área Reservada</h2><br/>
 				<form method="POST">
 					<div class="form-group">
 						<label for="email" >Email:</label>
@@ -51,8 +53,8 @@
 					<div class="form-group">
 						<label for="pwd" >Senha:</label>
 						<input type="password" name="senha" class="form-control" id="pwd">
-					</div>
-					<input type="submit"  class="btn btn-primary" value="Entrar">
+					</div><br/>
+					<input type="submit"  class="btn btn-primary btn-block" value="Entrar">
 				</form>
 			</div>
 			<div class="col-3"></div>
@@ -62,10 +64,10 @@
 <!-- Footer do Login -->
 
 	<footer>
-		<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-bottom">
+		<nav class="navbar navbar-expand-lg fixed-bottom back-color">
 	<!-- Apresentação da footer -->
 			
-			<a class="navbar-brand" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
+			<a class="navbar-brand text-reset" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
 	<!-- Botão de collapse -->
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarFooter">	
 				<span class="navbar-toggler-icon"></span>
@@ -77,7 +79,7 @@
 	<!-- Menu Dropdown -->
 			<ul class="navbar-nav my-2 my-lg-0">
 				<li class="nav-item dropdown dropup">
-				<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+				<a class="nav-link dropdown-toggle text-reset" href="#" id="navbardrop" data-toggle="dropdown">
 					Redes Sociais
 				</a>
 				<div class="dropdown-menu bg-info">

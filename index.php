@@ -11,11 +11,17 @@
 <body>
 
 <!-- Carregamento do Header--> 
-<?php 
-	include 'assets/php/header.php';
-	include 'assets/php/footer.php';
-?>
+	<?php 
+		include 'assets/php/header.php';
+		include 'assets/php/footer.php';
+	?>
 
+<!-- Cadastro  dos links --> 
+	<div class="container"><br/><br/><br/><br/>
+		<?php 
+			include 'assets/php/links.php';
+		?>
+	</div>
 
 <!-- Carregamento de JS -->
 	<script type="text/javascript" src="assets/js/jquery-3.4.1.slim.js"></script>

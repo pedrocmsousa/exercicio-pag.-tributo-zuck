@@ -11,7 +11,20 @@
 
 # 07/05/2020 12:10
 
-## login.php
+### login.php
 
 - Colocado background-image no fundo do body.
--  Refeito o footer para corrigir erro de não abrir menu com as redes sociais.- 
+-  Refeito o footer para corrigir erro de não abrir menu com as redes sociais.
+- Criado o arquivo login.css
+- Estelização do formulário
+
+### links.php
+
+- Colocado header e footer.
+- Adicionado Background image no fundo do body.
+-  Adicionado formulário para adicionar links.
+- Inicada a codificação do add.php.
+
+### index.php
+
+- Criado os botoes para colocação dos links.

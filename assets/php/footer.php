@@ -1,8 +1,8 @@
 <footer>
-	<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-bottom">
+	<nav class="navbar navbar-expand-lg back-color fixed-bottom">
 <!-- Apresentação da footer -->
 		
-		<a class="navbar-brand" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
+		<a class="navbar-brand text-reset" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
 <!-- Botão de collapse -->
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarFooter">	
 			<span class="navbar-toggler-icon"></span>
@@ -14,7 +14,7 @@
 <!-- Menu Dropdown -->
 		<ul class="navbar-nav my-2 my-lg-0">
 			<li class="nav-item dropdown dropup">
-	      		<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+	      		<a class="nav-link dropdown-toggle text-reset" href="#" id="navbardrop" data-toggle="dropdown">
 	      			Redes Sociais
 	     		</a>
 			    <div class="dropdown-menu bg-info">
