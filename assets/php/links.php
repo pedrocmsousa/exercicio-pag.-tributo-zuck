@@ -5,9 +5,9 @@
 	$sql->execute();
 	if ($sql->rowCount() > 0) {
 		foreach($sql->fetchAll() as $links) {
-			echo '<a href="'.$links['link'].'" target="_blank" class="btn btn-lg btn-outline-dark btn-block" >'.$links['descricao'].'</a>';			
+			echo '<a href="'.$links['link'].'" target="_blank" class="btn btn-lg btn-outline-danger text-dark btn-block">'.$links['descricao'].'</a>';
 		}
-	} else {	
+	} else {
 		echo "Nenhum usuário cadastrado";
 	}
 ?>

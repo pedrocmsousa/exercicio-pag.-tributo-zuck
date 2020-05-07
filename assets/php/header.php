@@ -1,5 +1,5 @@
 <header>
-	<nav class="navbar navbar-expand-lg fixed-top back-color">
+	<nav class="navbar navbar-expand-lg fixed-top bg-danger text-light">
 <!-- Apresentação da pagina -->
 		<a class="navbar-brand text-reset" href="http://projeto2.pedlets/">Letícia Sousa</a>
 <!-- Botão de collapse -->

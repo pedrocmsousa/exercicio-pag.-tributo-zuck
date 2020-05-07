@@ -1,5 +1,5 @@
 <footer>
-	<nav class="navbar navbar-expand-lg back-color fixed-bottom">
+	<nav class="navbar navbar-expand-lg navbar-danger text-dark">
 <!-- Apresentação da footer -->
 		
 		<a class="navbar-brand text-reset" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
@@ -9,7 +9,7 @@
 		</button>
 <!-- Copyright -->
 		<div class="collapse navbar-collapse justify-content-center" id="navbarFooter">
-			<span class="navbar-text">Copyright ₢2020 Pedlets Desenvolvimento - All Rights Reserved</span>
+			<span class="navbar-text text-reset">Copyright ₢2020 Pedlets Desenvolvimento - All Rights Reserved</span>
 		</div>
 <!-- Menu Dropdown -->
 		<ul class="navbar-nav my-2 my-lg-0">

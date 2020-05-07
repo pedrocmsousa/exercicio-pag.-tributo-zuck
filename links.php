@@ -18,15 +18,16 @@
 	<link rel="shortcut icon" href="assets/images/favicon.ico" />
 </head>
 <body>
-<?php 
-	require  'assets/php/add.php'; 
-?>
+<!-- Carregamento de PHP para adicionar links -->	
+	<?php 
+		require  'assets/php/add.php'; 
+	?>
 
 <!-- Header -->
 	<header>
-		<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
+		<nav class="navbar navbar-expand-lg bg-danger text-light fixed-top">
 	<!-- Apresentação da pagina -->
-			<a class="navbar-brand" href="http://projeto2.pedlets/">Letícia Sousa</a>
+			<a class="navbar-brand  text-reset" href="http://projeto2.pedlets/">Letícia Sousa</a>
 	<!-- Botão de collapse -->
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu">
 				<span class="navbar-toggler-icon"></span>
@@ -38,7 +39,7 @@
 	<!-- Menu Dropdown -->
 			<ul class="navbar-nav my-2 my-lg-0">
 				<li class="nav-item">
-					<a class="nav-link" href="assets/php/exit.php"><img src="assets/images/voltar.png"> Sair</a>
+					<a class="nav-link  text-reset" href="assets/php/exit.php"><img src="assets/images/voltar.png"> Sair</a>
 					</div>
 				</li>    
 			</ul>
@@ -67,10 +68,10 @@
 	</div>
 <!-- Footer dos links -->
 	<footer>
-		<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-bottom">
+		<nav class="navbar navbar-expand-lg bg-danger text-light fixed-bottom">
 	<!-- Apresentação da footer -->
 			
-			<a class="navbar-brand" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
+			<a class="navbar-brand text-reset" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
 	<!-- Botão de collapse -->
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarFooter">	
 				<span class="navbar-toggler-icon"></span>
@@ -82,7 +83,7 @@
 	<!-- Menu Dropdown -->
 			<ul class="navbar-nav my-2 my-lg-0">
 				<li class="nav-item dropdown dropup">
-				<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+				<a class="nav-link dropdown-toggle  text-reset" href="#" id="navbardrop" data-toggle="dropdown">
 					Redes Sociais
 				</a>
 				<div class="dropdown-menu bg-info">

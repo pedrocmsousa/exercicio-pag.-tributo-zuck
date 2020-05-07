@@ -47,12 +47,10 @@
 				<h2 class="text-center bg-primary">Acesso a Área Reservada</h2><br/>
 				<form method="POST">
 					<div class="form-group">
-						<label for="email" >Email:</label>
-						<input type="email" name="email" class="form-control" id="email">
+						<input type="email" name="email" class="form-control" id="email" placeholder="Digite o seu e-mail">
 					</div>
 					<div class="form-group">
-						<label for="pwd" >Senha:</label>
-						<input type="password" name="senha" class="form-control" id="pwd">
+						<input type="password" name="senha" class="form-control" id="pwd" placeholder="Digite a sua senha">
 					</div><br/>
 					<input type="submit"  class="btn btn-primary btn-block" value="Entrar">
 				</form>
@@ -64,7 +62,7 @@
 <!-- Footer do Login -->
 
 	<footer>
-		<nav class="navbar navbar-expand-lg fixed-bottom back-color">
+		<nav class="navbar navbar-expand-lg fixed-bottom bg-danger text-light">
 	<!-- Apresentação da footer -->
 			
 			<a class="navbar-brand text-reset" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>

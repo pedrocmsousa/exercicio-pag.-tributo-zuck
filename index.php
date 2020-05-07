@@ -13,16 +13,24 @@
 <!-- Carregamento do Header--> 
 	<?php 
 		include 'assets/php/header.php';
-		include 'assets/php/footer.php';
 	?>
 
 <!-- Cadastro  dos links --> 
 	<div class="container"><br/><br/><br/><br/>
-		<?php 
-			include 'assets/php/links.php';
-		?>
-	</div>
-
+		<div class="row">
+			<div class="col-2"></div>
+			<div class="col-8">
+				<?php 
+					include 'assets/php/links.php';
+				?>
+			</div>
+			<div class="col-2"></div>
+		</div>
+	</div><br/><br/><br/>
+<!-- Carregamento do Footer -->
+	<?php	
+		include 'assets/php/footer.php';
+	?>
 <!-- Carregamento de JS -->
 	<script type="text/javascript" src="assets/js/jquery-3.4.1.slim.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.bundle.min.js"></script>
