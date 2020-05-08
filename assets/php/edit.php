@@ -17,7 +17,7 @@
 
 		header("Location: http://projeto2.pedlets/alt-del.php");
 	} 
-	$sql = "SELECT * FROM link WHERE id = :id";
+	$sql = "SELECT * FROM links WHERE id = :id";
 	$sql = $pdo->prepare($sql);
 	$sql->bindValue(':id', $id);
 	$sql->execute();

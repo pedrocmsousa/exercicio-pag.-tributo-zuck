@@ -48,3 +48,8 @@
 - Colocado para funcionar o botão de apagar registros.
 - Preparação para editar registros com a criação do arquivo assets/php/edit.php.
 - Criado o arquivo editar.php para iniciar a edição de links.
+
+### editar.php
+
+- Montada estrutura da pagina. 
+- Feito as associações de PHP para a edição de membros funcionar.
