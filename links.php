@@ -55,15 +55,27 @@
 				<form method="POST">
 					<div class="form-group">
 						<label for="desc" ></label>
-						<textarea row="3" class="form-control"  placeholder="Descrição do link" name="desc" ></textarea>
+						<textarea row="3" class="form-control form-control-lg"  placeholder="Descrição do link" name="desc" ></textarea>
 					</div>
 					<div class="form-group">
-						<input type="text" name="link" class="form-control" placeholder="URL do link">
+						<input type="text" name="link" class="form-control form-control-lg" placeholder="URL do link">
 					</div><br/>
-					<input type="submit"  class="btn btn-primary btn-block" value="Adicionar">
+					<input type="submit"  class="btn btn-primary btn-lg btn-block" value="Adicionar">
 				</form>
 			</div>
 			<div class="col-3"></div>
+		</div>
+	</div>
+
+<!-- Botão de alteração/remoção de links -->
+
+	<div class="container">
+		<div class="row">
+			<div class="col"></div>
+			<div class="col"></div>
+			<div class="col-3 alterar"><br/><br/><br/>
+				<a href="" class="btn btn-primary btn-lg">Alterar/Remover links</a>
+			</div>
 		</div>
 	</div>
 <!-- Footer dos links -->

@@ -35,3 +35,9 @@
 ### login.php
 
 - Aumento dos input para um tamanho maior.
+
+### links.php
+
+- Aumento dos input para um tamanho maior.
+- Criação de botão para alterar/eliminar link.
+- Criação do arquivo alt-del.php
