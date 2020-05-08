@@ -47,10 +47,10 @@
 				<h2 class="text-center bg-primary">Acesso a Área Reservada</h2><br/>
 				<form method="POST">
 					<div class="form-group">
-						<input type="email" name="email" class="form-control" id="email" placeholder="Digite o seu e-mail">
+						<input type="email" name="email" class="form-control form-control-lg" id="email" placeholder="Digite o seu e-mail">
 					</div>
 					<div class="form-group">
-						<input type="password" name="senha" class="form-control" id="pwd" placeholder="Digite a sua senha">
+						<input type="password" name="senha" class="form-control form-control-lg" id="pwd" placeholder="Digite a sua senha">
 					</div><br/>
 					<input type="submit"  class="btn btn-primary btn-block" value="Entrar">
 				</form>

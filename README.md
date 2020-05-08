@@ -29,3 +29,9 @@
 
 - Criado os botoes para colocação dos links.
 - Integrado perfeitamente com o PHP e My SQL
+
+# 08/05/2020 11:15
+
+### login.php
+
+- Aumento dos input para um tamanho maior.
