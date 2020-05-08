@@ -41,3 +41,10 @@
 - Aumento dos input para um tamanho maior.
 - Criação de botão para alterar/eliminar link.
 - Criação do arquivo alt-del.php
+
+### alt-del.php
+
+- Estrutura da pagina montada para aparecer todos os links registrados em uma tabela.
+- Colocado para funcionar o botão de apagar registros.
+- Preparação para editar registros com a criação do arquivo assets/php/edit.php.
+- Criado o arquivo editar.php para iniciar a edição de links.

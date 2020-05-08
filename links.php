@@ -74,7 +74,7 @@
 			<div class="col"></div>
 			<div class="col"></div>
 			<div class="col-3 alterar"><br/><br/><br/>
-				<a href="" class="btn btn-primary btn-lg">Alterar/Remover links</a>
+				<a href="alt-del.php" class="btn btn-primary btn-lg">Alterar/Remover links</a>
 			</div>
 		</div>
 	</div>
