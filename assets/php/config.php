@@ -1,7 +1,7 @@
 <?php 
 
-$dsn = "mysql:dbname=links_lets;host=127.0.0.1";
-$dbuser = "root";
+$dsn = "mysql:dbname=pedlet78_links_lets;host=192.185.176.140";
+$dbuser = "pedlet78_root";
 $dbpass = "Lets1433";
     
 try {

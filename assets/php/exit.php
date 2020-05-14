@@ -2,6 +2,6 @@
 session_start();
 
 unset($_SESSION['mkt']);
-header("Location: http://projeto2.pedlets/index.php");
+header("Location: https://links.pedlets.com.br/");
 exit;
 ?>
