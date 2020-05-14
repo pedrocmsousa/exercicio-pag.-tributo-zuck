@@ -11,21 +11,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1,shrink-to-fit=no">
-	<title>Adicionar links</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1,shrink-to-fit=no">
+	<title>Editar/Excluir links</title>
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/login.css">
 	<link rel="shortcut icon" href="assets/images/favicon.ico" />
 </head>
 <body>
-<!-- Carregamento de PHP para adicionar links -->	
-	<?php 
-		require  'assets/php/add.php'; 
-	?>
-
 <!-- Header -->
 	<header>
-		<nav class="navbar navbar-expand-lg bg-danger text-light fixed-top">
+		<nav class="navbar navbar-expand-lg bg-info text-reset fixed-top">
 	<!-- Apresentação da pagina -->
 			<a class="navbar-brand  text-reset" href="http://projeto2.pedlets/">Letícia Sousa</a>
 	<!-- Botão de collapse -->
@@ -34,87 +29,50 @@
 			</button>
 	<!-- Menu do site -->
 			<div class="collapse navbar-collapse justify-content-center">
-				<span class="navbar-text">Marketing Digital Links de Letícia Sousa</span>
+				<span class="navbar-text"></span>
 			</div>
 	<!-- Menu Dropdown -->
 			<ul class="navbar-nav my-2 my-lg-0">
 				<li class="nav-item">
+                    <div class="btn btn-group text-reset">
 					<a class="nav-link  text-reset" href="assets/php/exit.php"><img src="assets/images/voltar.png"> Sair</a>
-					</div>
+                    </div>
 				</li>    
 			</ul>
 		</nav>
 	</header>
 
-<!-- Formulario para preenchimento dos links -->
-	<div class="container"><br/><br/><br/><br/><br/>
-		<div class="row">
-			<div class="col-3"></div>
-			<div class="col">
-				<h2 class="text-center bg-primary">Adicionar novo Link</h2><br/>
-				<form method="POST">
-					<div class="form-group">
-						<label for="desc" ></label>
-						<textarea row="3" class="form-control form-control-lg"  placeholder="Descrição do link" name="desc" ></textarea>
-					</div>
-					<div class="form-group">
-						<input type="text" name="link" class="form-control form-control-lg" placeholder="URL do link">
-					</div><br/>
-					<input type="submit"  class="btn btn-primary btn-lg btn-block" value="Adicionar">
-				</form>
-			</div>
-			<div class="col-3"></div>
-		</div>
-	</div>
+<!-- Tabela de links -->
+	
+    <div class="container"><br/><br/><br/><br/>
+		<a href="adicionar.php" class="btn btn-info btn-block btn-lg text-reset" >Adicionar Link</a><br/>
+        <div class="table-responsive">
+			<table class="table table-bordered table-hover bg-info">
+				<thead class="bg-primary text-light">
+					<tr>
+						<th class="text-center">Descrição</th>
+						<th class="text-center">Link</th>
+						<th class="text-center">Acções</th>
+					</tr>
+				</thead>
+                <tbody>
+                    <?php 
+                        include 'assets/php/list.php';
+                    ?>
+                </tbody>
+            </table>
+        </div>  
+    </div>          
 
-<!-- Botão de alteração/remoção de links -->
+<!-- Footer -->
 
-	<div class="container">
-		<div class="row">
-			<div class="col"></div>
-			<div class="col"></div>
-			<div class="col-3 alterar"><br/><br/><br/>
-				<a href="alt-del.php" class="btn btn-primary btn-lg">Alterar/Remover links</a>
-			</div>
-		</div>
-	</div>
-<!-- Footer dos links -->
 	<footer>
-		<nav class="navbar navbar-expand-lg bg-danger text-light fixed-bottom">
-	<!-- Apresentação da footer -->
-			
-			<a class="navbar-brand text-reset" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
-	<!-- Botão de collapse -->
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarFooter">	
-				<span class="navbar-toggler-icon"></span>
-			</button>
-	<!-- Copyright -->
+		<nav class="navbar navbar-expand-lg fixed-bottom bg-info text-reset">
 			<div class="collapse navbar-collapse justify-content-center" id="navbarFooter">
-				<span class="navbar-text">Copyright ₢2020 Pedlets Desenvolvimento - All Rights Reserved</span>
+				<a class="text-reset" href="https://www.pedlets.com.br" target="_blank">Copyright ₢2020 Pedlets Desenvolvimento - All Rights Reserved</a>
 			</div>
-	<!-- Menu Dropdown -->
-			<ul class="navbar-nav my-2 my-lg-0">
-				<li class="nav-item dropdown dropup">
-				<a class="nav-link dropdown-toggle  text-reset" href="#" id="navbardrop" data-toggle="dropdown">
-					Redes Sociais
-				</a>
-				<div class="dropdown-menu bg-info">
-					<a class="dropdown-item" href="https://www.facebook.com/pedrocmsousa" target="_blank"><img src="assets/images/facebook.png"> <span>Facebook</span></a>
-					<a class="dropdown-item" href="https://www.instagram.com/pedrocmsousa" target="_blank"><img src="assets/images/instagram.png"> <span>Instagram</span></a>
-					<a class="dropdown-item" href="https://wa.me/553175550661" target="_blank"><img src="assets/images/whatsapp.png"> <span>WhatsApp</span></a>
-					<div class="dropdown-divider"></div>
-					<a class="dropdown-item" href="https://www.linkedin.com/in/pedrocmsousa" target="_blank"><img src="assets/images/linkedin.png"> <span>Linkedin</span></a>
-					<a class="dropdown-item" href=" https://twitter.com/pedrocmsousa" target="_blank"><img src="assets/images/twitter.png"> <span>Twitter</span></a>
-					<a class="dropdown-item" href="https://t.me/pedrocmsousa" target="_blank"><img src="assets/images/telegram.png"> <span>Telegram</span></a>
-					<div class="dropdown-divider"></div>
-					</div>
-				</li>
-			</ul>
 		</nav>
 	</footer>
-<!-- Carregamento de JS -->
-	<script type="text/javascript" src="assets/js/jquery-3.4.1.slim.js"></script>
-	<script type="text/javascript" src="assets/js/bootstrap.bundle.min.js"></script>
-	<script type="text/javascript" src="assets/js/script.js"></script>
+
 </body>
 </html>

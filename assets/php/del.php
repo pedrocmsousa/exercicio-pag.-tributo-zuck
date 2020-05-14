@@ -8,8 +8,8 @@ if (isset($_GET['id']) && empty($_GET['id']) == false) {
 	$sql->bindValue(':id', $id);
 	$sql->execute();
 	
-	header("Location: http://projeto2.pedlets/alt-del.php");
+	header("Location: http://projeto2.pedlets/links.php");
 } else {
-	header("Location: http://projeto2.pedlets/alt-del.php");
+	header("Location: http://projeto2.pedlets/links.php");
 }
 ?>

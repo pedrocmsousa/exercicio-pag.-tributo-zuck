@@ -53,3 +53,7 @@
 
 - Montada estrutura da pagina. 
 - Feito as associações de PHP para a edição de membros funcionar.
+
+# 13/05/2020 22:55
+
+- Pequenos ajustes a gosto do cliente para poder subir o projeto para online.

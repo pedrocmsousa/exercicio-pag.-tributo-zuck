@@ -1,5 +1,5 @@
 <header>
-	<nav class="navbar navbar-expand-lg fixed-top bg-danger text-light">
+	<nav class="navbar navbar-expand-lg fixed-top bg-info text-reset">
 <!-- Apresentação da pagina -->
 		<a class="navbar-brand text-reset" href="http://projeto2.pedlets/">Letícia Sousa</a>
 <!-- Botão de collapse -->
@@ -8,7 +8,7 @@
 		</button>
 <!-- Menu do site -->
 		<div class="collapse navbar-collapse justify-content-center">
-			<span class="navbar-text">Marketing Digital Links de Letícia Sousa</span>
+			<span class="navbar-text"></span>
 		</div>
 <!-- Menu Dropdown -->
 		<ul class="navbar-nav my-2 my-lg-0">

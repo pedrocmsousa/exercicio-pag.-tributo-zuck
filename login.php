@@ -44,7 +44,7 @@
 		<div class="row">
 			<div class="col-3"></div>
 			<div class="col">
-				<h2 class="text-center bg-primary">Acesso a Área Reservada</h2><br/>
+				<h2 class="text-center bg-info text-reset">Acesso a área de links</h2><br/>
 				<form method="POST">
 					<div class="form-group">
 						<input type="email" name="email" class="form-control form-control-lg" id="email" placeholder="Digite o seu e-mail">
@@ -52,7 +52,7 @@
 					<div class="form-group">
 						<input type="password" name="senha" class="form-control form-control-lg" id="pwd" placeholder="Digite a sua senha">
 					</div><br/>
-					<input type="submit"  class="btn btn-primary btn-block" value="Entrar">
+					<input type="submit"  class="btn btn-info btn-block btn-lg text-reset" value="Entrar na area reservada">
 				</form>
 			</div>
 			<div class="col-3"></div>
@@ -62,36 +62,10 @@
 <!-- Footer do Login -->
 
 	<footer>
-		<nav class="navbar navbar-expand-lg fixed-bottom bg-danger text-light">
-	<!-- Apresentação da footer -->
-			
-			<a class="navbar-brand text-reset" href="https://www.pedlets.com.br" target="_blank">PEDLETS DEVS</a>
-	<!-- Botão de collapse -->
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarFooter">	
-				<span class="navbar-toggler-icon"></span>
-			</button>
-	<!-- Copyright -->
+		<nav class="navbar navbar-expand-lg fixed-bottom bg-info text-reset">
 			<div class="collapse navbar-collapse justify-content-center" id="navbarFooter">
-				<span class="navbar-text">Copyright ₢2020 Pedlets Desenvolvimento - All Rights Reserved</span>
+				<a class="text-reset" href="https://www.pedlets.com.br" target="_blank">Copyright ₢2020 Pedlets Desenvolvimento - All Rights Reserved</a>
 			</div>
-	<!-- Menu Dropdown -->
-			<ul class="navbar-nav my-2 my-lg-0">
-				<li class="nav-item dropdown dropup">
-				<a class="nav-link dropdown-toggle text-reset" href="#" id="navbardrop" data-toggle="dropdown">
-					Redes Sociais
-				</a>
-				<div class="dropdown-menu bg-info">
-					<a class="dropdown-item" href="https://www.facebook.com/pedrocmsousa" target="_blank"><img src="assets/images/facebook.png"> <span>Facebook</span></a>
-					<a class="dropdown-item" href="https://www.instagram.com/pedrocmsousa" target="_blank"><img src="assets/images/instagram.png"> <span>Instagram</span></a>
-					<a class="dropdown-item" href="https://wa.me/553175550661" target="_blank"><img src="assets/images/whatsapp.png"> <span>WhatsApp</span></a>
-					<div class="dropdown-divider"></div>
-					<a class="dropdown-item" href="https://www.linkedin.com/in/pedrocmsousa" target="_blank"><img src="assets/images/linkedin.png"> <span>Linkedin</span></a>
-					<a class="dropdown-item" href=" https://twitter.com/pedrocmsousa" target="_blank"><img src="assets/images/twitter.png"> <span>Twitter</span></a>
-					<a class="dropdown-item" href="https://t.me/pedrocmsousa" target="_blank"><img src="assets/images/telegram.png"> <span>Telegram</span></a>
-					<div class="dropdown-divider"></div>
-					</div>
-				</li>
-			</ul>
 		</nav>
 	</footer>
 
