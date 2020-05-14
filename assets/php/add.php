@@ -10,6 +10,6 @@
 		$sql->bindValue(':link', $link);
 		$sql->execute();
 
-		header ('Location: http://projeto2.pedlets/links.php');
+		header ('Location: https://links.pedlets.com.br/links.php');
 	}	
 ?>

@@ -1,7 +1,7 @@
 <header>
 	<nav class="navbar navbar-expand-lg bg-info text-reset fixed-top">
 <!-- Apresentação da pagina -->
-		<a class="navbar-brand text-reset" href="http://projeto2.pedlets/">Letícia Sousa</a>
+		<a class="navbar-brand text-reset" href="https://links.pedlets.com.br/">Letícia Sousa</a>
 <!-- Botão de collapse -->
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu">
 			<span class="navbar-toggler-icon"></span>

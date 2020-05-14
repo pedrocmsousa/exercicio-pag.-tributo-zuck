@@ -15,7 +15,7 @@
 		$sql->bindValue(':link', $link);
 		$sql->execute();
 
-		header("Location: http://projeto2.pedlets/alt-del.php");
+		header("Location: http://links.pedlets.com.br/links.php");
 	} 
 	$sql = "SELECT * FROM links WHERE id = :id";
 	$sql = $pdo->prepare($sql);
@@ -24,6 +24,6 @@
 	if ($sql->rowCount() > 0) {
 		$dado_links = $sql->fetch();
 	} else {
-		header("Location: http://projeto2.pedlets/alt-del.php");
+		header("Location: https://links.pedlets.com.br/links.php");
 	}
 ?>
