@@ -33,3 +33,8 @@
 
 - Feitos pequenos ajustes na Secção Mais.
 - Pequenas correções ortograficas.
+
+# 17/05/2020 15:00
+
+- Colocado o scroll da pagina mais amigavel ao usuário.
+- Subido o projeto para online.
