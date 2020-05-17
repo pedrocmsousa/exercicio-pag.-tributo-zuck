@@ -1,3 +1,6 @@
+html, body {
+	scroll-behavior: smooth;	
+}
 .zuck-more-rectangle {
 	margin-left:15px;
 	max-width:1px;
