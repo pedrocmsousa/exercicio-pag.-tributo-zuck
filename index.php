@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>Tributo a Mark Zuckenberg</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="shortcut icon" href="assets/images/favicon.ico" />
 </head>
 <body>
 	<header>
@@ -86,7 +87,7 @@
 		</div>				
 	</content>
 	<footer>
-		Copyright ₢2019 <a href="http://www.pedletsinfo.com.br" target="_blank">PedLets Info Service</a> - All Rights Reserved
+		Copyright ₢2020 <a href="http://www.pedlets.com.br" target="_blank">PedLets Info Service</a> - All Rights Reserved
 	</footer>
 </body>
 </html>
