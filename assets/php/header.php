@@ -29,9 +29,6 @@
 				<li class="nav-item">
 					<a class="nav-link" href="#sources">Fontes</a>
 				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="https://www.pedlets.com.br/zuck_old" target="_blank">Versão sem Bootstrap</a>
-				</li>
 			</ul>
 		</div>
 
